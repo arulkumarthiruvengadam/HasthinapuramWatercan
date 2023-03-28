@@ -1,0 +1,56 @@
+#float1
+{
+ Float:left;
+}
+
+#h1tag
+{
+    text-align:center;
+    background-color:yellow;
+}
+
+#h2tag
+{
+    text-align:Center;
+    background-color:skyblue;
+   
+    
+}
+
+#marqueetag
+{
+    background-color:skyblue;
+}
+
+#floattag
+{
+    float:left;
+}
+
+#bottomtag
+{
+    float:bottom;
+}
+
+#h4tag {
+ Color:Purple;
+ text-align:center;
+}
+#h3tag {
+    Color:blue;
+   }
+
+   @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  #ImageHome
+  {
+    width: 100%;
+    height: 100%;
+  }
+  #ps1{
+    position:-webkit-sticky;
+    position:sticky
+  }
